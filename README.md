@@ -83,5 +83,13 @@ holistic system for Early Diagnosis, where AI models analyze brain imaging (MRI,
 
  
 - Conclusion : The project effectively applied machine learning (Random Forest, XGBoost) and deep learning (1D CNN) models to early Alzheimer's disease diagnosis, distinguishing Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Cognitively Normal (CN) cases using neuroimaging and demographic data. Among the evaluated models, XGBoost demonstrated superior performance with an accuracy of 86%, significantly improving Alzheimer's class identification. The CNN provided robust, complementary insights by capturing intricate feature relationships. Feature importance analysis emphasized the diagnostic value of brain imaging data over demographics alone. Future improvements include utilizing larger, diverse datasets, integrating multi-modal data, and employing advanced neural architectures to further enhance diagnostic accuracy and clinical relevance.
-  
+
+
+## Project Resources
+| Resource Type           | Link                                             | Description                             |
+|-------------------------|--------------------------------------------------|-----------------------------------------|
+| 📹 **Presentation Video** | [Watch on YouTube](https://youtube.com/link_here) | Full presentation video                 |
+| 🖥️ **Presentation Slides** | [View Slides](slides/)                            | PowerPoint or Google Slides             |
+| 💻 **Code**               | [Access Code](code/)                              | Final scripts with detailed comments    |
+| 📊 **Dataset**            | [Download Dataset](data/)                          | Project dataset (link or zipped file)   |
 
