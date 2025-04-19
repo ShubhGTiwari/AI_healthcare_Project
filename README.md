@@ -15,6 +15,12 @@
 holistic system for Early Diagnosis, where AI models analyze brain imaging (MRI, PET scans) and clinical data to detect early signs of Alzheimer's.
 
 - Methodolody :
+  1. Data Collection & Exploration :
+         - Utilized a dataset comprising 271 records and 61 features including brain region measurements and demographic data.
+  - Target classes :
+  -     CN (Cognitively Normal)
+  -     MCI (Mild Cognitive Impairment)
+  -     AD (Alzheimer's Disease)
    
 
 
