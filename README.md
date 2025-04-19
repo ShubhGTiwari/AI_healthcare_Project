@@ -89,7 +89,7 @@ holistic system for Early Diagnosis, where AI models analyze brain imaging (MRI,
 | Resource Type           | Link                                             | Description                             |
 |-------------------------|--------------------------------------------------|-----------------------------------------|
 | 📹 **Presentation Video** | [Watch on YouTube](https://youtu.be/JWHqtGGBLRY) | Full presentation video                 |
-| 🖥️ **Presentation Slides** | [View Slides](slides/)                            | PowerPoint            |
-| 💻 **Code**               | [Access Code](code/)                              | Final scripts with detailed comments    |
+| 🖥️ **Presentation Slides** | [View Slides](https://github.com/ShubhGTiwari/Early_Diagnosis_of_Alzheimers/blob/main/Early%20Diagnosis.pptx)                           | PowerPoint            |
+| 💻 **Code**               | [Access Code](https://github.com/ShubhGTiwari/Early_Diagnosis_of_Alzheimers/blob/main/Early_diagnosis.ipynb)                              | Final scripts with detailed comments    |
 | 📊 **Dataset**            | [Download Dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/)                          | Project dataset  |
 
