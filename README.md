@@ -88,8 +88,8 @@ holistic system for Early Diagnosis, where AI models analyze brain imaging (MRI,
 ## Project Resources
 | Resource Type           | Link                                             | Description                             |
 |-------------------------|--------------------------------------------------|-----------------------------------------|
-| 📹 **Presentation Video** | [Watch on YouTube]([https://youtu.be/JWHqtGGBLRY]) | Full presentation video                 |
+| 📹 **Presentation Video** | [Watch on YouTube](https://youtu.be/JWHqtGGBLRY) | Full presentation video                 |
 | 🖥️ **Presentation Slides** | [View Slides](slides/)                            | PowerPoint            |
 | 💻 **Code**               | [Access Code](code/)                              | Final scripts with detailed comments    |
-| 📊 **Dataset**            | [Download Dataset]([https://sites.wustl.edu/oasisbrains/home/oasis-1/])                          | Project dataset  |
+| 📊 **Dataset**            | [Download Dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/)                          | Project dataset  |
 
